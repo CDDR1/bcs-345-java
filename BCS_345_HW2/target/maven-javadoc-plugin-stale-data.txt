@@ -1,0 +1,52 @@
+@options
+@packages
+-classpath
+'/Users/Carlos_Duque/.m2/repository/com/google/code/gson/gson/2.8.8/gson-2.8.8.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/Users/Carlos_Duque/NetBeansProjects/BCS_345_HW2/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/Carlos_Duque/NetBeansProjects/BCS_345_HW2/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BCS_345_HW2 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/Users/Carlos_Duque/NetBeansProjects/BCS_345_HW2/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'BCS_345_HW2 1.0-SNAPSHOT API'
+com.carlosduque.business
+com.carlosduque.presentation
+/Users/Carlos_Duque/.m2/repository/com/google/code/gson/gson/2.8.8/gson-2.8.8.jar = 1632276180181
+/Users/Carlos_Duque/NetBeansProjects/BCS_345_HW2/src/main/java = 1632269373639
+/Users/Carlos_Duque/NetBeansProjects/BCS_345_HW2/target/site/apidocs/constant-values.html = 1633112460545
+/Users/Carlos_Duque/NetBeansProjects/BCS_345_HW2/target/site/apidocs/member-search-index.zip = 1633112460653
+/Users/Carlos_Duque/NetBeansProjects/BCS_345_HW2/target/site/apidocs/overview-tree.html = 1633112460594
+/Users/Carlos_Duque/NetBeansProjects/BCS_345_HW2/target/site/apidocs/index.html = 1633112460693
+/Users/Carlos_Duque/NetBeansProjects/BCS_345_HW2/target/site/apidocs/package-search-index.js = 1633112460635
+/Users/Carlos_Duque/NetBeansProjects/BCS_345_HW2/target/site/apidocs/package-search-index.zip = 1633112460648
+/Users/Carlos_Duque/NetBeansProjects/BCS_345_HW2/target/site/apidocs/type-search-index.zip = 1633112460651
+/Users/Carlos_Duque/NetBeansProjects/BCS_345_HW2/target/site/apidocs/index-all.html = 1633112460656
+/Users/Carlos_Duque/NetBeansProjects/BCS_345_HW2/target/site/apidocs/allpackages-index.html = 1633112460671
+/Users/Carlos_Duque/NetBeansProjects/BCS_345_HW2/target/site/apidocs/deprecated-list.html = 1633112460681
+/Users/Carlos_Duque/NetBeansProjects/BCS_345_HW2/target/site/apidocs/member-search-index.js = 1633112460652
+/Users/Carlos_Duque/NetBeansProjects/BCS_345_HW2/target/site/apidocs/allclasses.html = 1633112460685
+/Users/Carlos_Duque/NetBeansProjects/BCS_345_HW2/target/site/apidocs/script.js = 1633112460711
+/Users/Carlos_Duque/NetBeansProjects/BCS_345_HW2/target/site/apidocs/stylesheet.css = 1633112460709
+/Users/Carlos_Duque/NetBeansProjects/BCS_345_HW2/target/site/apidocs/overview-summary.html = 1633112460697
+/Users/Carlos_Duque/NetBeansProjects/BCS_345_HW2/target/site/apidocs/help-doc.html = 1633112460703
+/Users/Carlos_Duque/NetBeansProjects/BCS_345_HW2/target/site/apidocs/element-list = 1633112460515
+/Users/Carlos_Duque/NetBeansProjects/BCS_345_HW2/target/site/apidocs/allclasses-index.html = 1633112460667
+/Users/Carlos_Duque/NetBeansProjects/BCS_345_HW2/target/site/apidocs/type-search-index.js = 1633112460650
+/Users/Carlos_Duque/NetBeansProjects/BCS_345_HW2/target/site/apidocs/search.js = 1633112460715
