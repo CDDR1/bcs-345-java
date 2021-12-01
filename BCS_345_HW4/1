@@ -1,0 +1,13 @@
+{
+  "student": {
+    "first": "NO_FIRST",
+    "last": "NO_LAST",
+    "major": "NO_MAJOR"
+  },
+  "submissions": [
+    null,
+    null,
+    null,
+    null
+  ]
+}
