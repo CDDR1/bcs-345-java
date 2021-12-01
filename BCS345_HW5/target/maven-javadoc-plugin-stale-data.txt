@@ -1,0 +1,56 @@
+@options
+@packages
+@argfile
+--class-path
+'/Users/Carlos_Duque/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13.jar:/Users/Carlos_Duque/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13.jar:/Users/Carlos_Duque/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13.jar:/Users/Carlos_Duque/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13.jar'
+--module-path
+'/Users/Carlos_Duque/NetBeansProjects/BCS345_HW5/target/classes:/Users/Carlos_Duque/.m2/repository/com/google/code/gson/gson/2.8.8/gson-2.8.8.jar:/Users/Carlos_Duque/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13-mac.jar:/Users/Carlos_Duque/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13-mac.jar:/Users/Carlos_Duque/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13-mac.jar:/Users/Carlos_Duque/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13-mac.jar'
+--patch-module
+com.mycompany.bcs345_hw5='/Users/Carlos_Duque/NetBeansProjects/BCS345_HW5/src/main/java'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+--module-source-path
+'/Users/Carlos_Duque/NetBeansProjects/BCS345_HW5/target/site/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/Carlos_Duque/NetBeansProjects/BCS345_HW5/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BCS345_HW5 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/Users/Carlos_Duque/NetBeansProjects/BCS345_HW5/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'BCS345_HW5 1.0-SNAPSHOT API'
+com.mycompany.bcs345_hw5
+'/Users/Carlos_Duque/NetBeansProjects/BCS345_HW5/src/main/java/module-info.java'
+/Users/Carlos_Duque/NetBeansProjects/BCS345_HW5/target/site/apidocs/constant-values.html = 1638311361550
+/Users/Carlos_Duque/NetBeansProjects/BCS345_HW5/target/site/apidocs/member-search-index.zip = 1638311361728
+/Users/Carlos_Duque/NetBeansProjects/BCS345_HW5/target/site/apidocs/overview-tree.html = 1638311361616
+/Users/Carlos_Duque/NetBeansProjects/BCS345_HW5/target/site/apidocs/module-search-index.js = 1638311361704
+/Users/Carlos_Duque/NetBeansProjects/BCS345_HW5/target/site/apidocs/index.html = 1638311361765
+/Users/Carlos_Duque/NetBeansProjects/BCS345_HW5/target/site/apidocs/package-search-index.js = 1638311361722
+/Users/Carlos_Duque/NetBeansProjects/BCS345_HW5/target/site/apidocs/package-search-index.zip = 1638311361724
+/Users/Carlos_Duque/NetBeansProjects/BCS345_HW5/target/site/apidocs/type-search-index.zip = 1638311361725
+/Users/Carlos_Duque/NetBeansProjects/BCS345_HW5/target/site/apidocs/index-all.html = 1638311361731
+/Users/Carlos_Duque/NetBeansProjects/BCS345_HW5/target/site/apidocs/allpackages-index.html = 1638311361744
+/Users/Carlos_Duque/NetBeansProjects/BCS345_HW5/target/site/apidocs/deprecated-list.html = 1638311361753
+/Users/Carlos_Duque/NetBeansProjects/BCS345_HW5/target/site/apidocs/module-search-index.zip = 1638311361722
+/Users/Carlos_Duque/NetBeansProjects/BCS345_HW5/target/site/apidocs/member-search-index.js = 1638311361726
+/Users/Carlos_Duque/NetBeansProjects/BCS345_HW5/target/site/apidocs/allclasses.html = 1638311361757
+/Users/Carlos_Duque/NetBeansProjects/BCS345_HW5/target/site/apidocs/script.js = 1638311361785
+/Users/Carlos_Duque/NetBeansProjects/BCS345_HW5/target/site/apidocs/stylesheet.css = 1638311361784
+/Users/Carlos_Duque/NetBeansProjects/BCS345_HW5/target/site/apidocs/help-doc.html = 1638311361777
+/Users/Carlos_Duque/NetBeansProjects/BCS345_HW5/target/site/apidocs/element-list = 1638311361504
+/Users/Carlos_Duque/NetBeansProjects/BCS345_HW5/target/site/apidocs/allclasses-index.html = 1638311361739
+/Users/Carlos_Duque/NetBeansProjects/BCS345_HW5/target/site/apidocs/type-search-index.js = 1638311361725
+/Users/Carlos_Duque/NetBeansProjects/BCS345_HW5/target/site/apidocs/search.js = 1638311361825
